@@ -1,0 +1,4 @@
+Car count: 2
+Bus count: 0
+Truck count: 0
+Motorcycle count: 0
